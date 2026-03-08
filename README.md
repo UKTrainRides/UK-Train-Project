@@ -24,7 +24,7 @@ Under the supervision & guidance of our:
 
 ## Instructor
 
-*Dina Ezzat Abdelmeged
+* Dina Ezzat Abdelmeged
 
 ---
 
