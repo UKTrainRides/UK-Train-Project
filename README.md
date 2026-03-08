@@ -1,6 +1,6 @@
 # UK Railway Operations Analysis and Delay Prediction
 
-## Overview
+## Overview/ Project Idea 
 
 This project analyzes railway journey data to identify operational patterns, passenger behavior, and factors associated with train delays. The project demonstrates a complete data analytics workflow, progressing from raw data preparation and exploratory analysis to machine learning modeling and interactive visualization.
 
@@ -12,16 +12,23 @@ The project also includes interactive visualization tools to support exploration
 
 ## Team Members
 
-* Abeer Nasim Bakr
-* Fatma Ashraf Hussein
-* Malak Mohamed Ali
-* Mariam Mohamed Mahmoud
-* Sara Nasim Bakr
-* Tarek Fekry Mahoub
+1. Abeer Nasim Bakr
+2. Fatma Ashraf Hussein
+3. Malak Mohamed Ali
+4. Mariam Mohamed Mahmoud
+5. Sara Nasim Bakr
+6. Tarek Fekry Mahoub
+
+---
+Under the supervision & guidance of our:
+
+## Instructor
+
+*Dina Ezzat Abdelmeged
 
 ---
 
-## Objectives
+## Objectives/Plans In'shaa'Allah
 
 * Clean and prepare raw railway data for analysis
 * Perform exploratory data analysis to identify travel and delay patterns
@@ -32,6 +39,17 @@ The project also includes interactive visualization tools to support exploration
 
 ---
 
+## Roles and Responsibilities
+
+Roles and responsibilities will be assigned flexibly for each proect phase and updated periodically as time progresses in'shaa'Allah.
+**Phase 1** of our project plan is currently ongoing & responsibilities are as follows:
+
+1. **Building a data model & Managing Github** – Mariam Mohamed Mahmoud
+2. **Data Cleaning Using SQL** – Fatma Ashraf Hussein & Abeer Nasim Bakr
+3. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed Ali
+4. **Determining Data Analysis Questions** - Tarek Fekry Mahoub
+
+---
 ## Dataset
 
 The dataset contains railway journey records including travel details, ticket information, and operational attributes. These records are used to analyze travel behavior and investigate the factors contributing to train delays.
