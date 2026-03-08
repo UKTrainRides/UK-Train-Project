@@ -10,6 +10,17 @@ The project also includes interactive visualization tools to support exploration
 
 ---
 
+## Team Members
+
+* Abeer Nasim Bakr
+* Fatma Ashraf Hussein
+* Malak Mohamed Ali
+* Mariam Mohamed Mahmoud
+* Sara Nasim Bakr
+* Tarek Fekry Mahoub
+
+---
+
 ## Objectives
 
 * Clean and prepare raw railway data for analysis
