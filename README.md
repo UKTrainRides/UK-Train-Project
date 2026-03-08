@@ -50,6 +50,13 @@ Roles and responsibilities will be assigned flexibly for each proect phase and u
 4. **Determining Data Analysis Questions** - Tarek Fekry Mahoub
 
 ---
+## Project Files
+
+You can find the full proect files here in'shaa'Allah:
+https://drive.google.com/drive/folders/1iMn5vk1Li5_AlFTK6tCYtDRkoKAQ2lUY
+
+---
+
 ## Dataset
 
 The dataset contains railway journey records including travel details, ticket information, and operational attributes. These records are used to analyze travel behavior and investigate the factors contributing to train delays.
@@ -182,4 +189,4 @@ streamlit run app.py
 
 ## License
 
-This project is developed for educational and research purposes.
+This project is developed for educational and research purposes under the **Digital Egypt Pioneers Initiative**.
