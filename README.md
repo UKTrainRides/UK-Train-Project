@@ -30,7 +30,7 @@ Under the supervision & guidance of our:
 
 ## Objectives/Plans In'shaa'Allah
 
-* Clean and prepare raw railway data for analysis
+* Clean and prepare raw railway data for analysis - DONE
 * Perform exploratory data analysis to identify travel and delay patterns
 * Engineer useful features from temporal and journey data
 * Train and evaluate predictive models using Scikit-learn
