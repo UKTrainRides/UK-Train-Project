@@ -45,7 +45,7 @@ Roles and responsibilities will be assigned flexibly for each proect phase and u
 **Phase 1** of our project plan is currently ongoing & responsibilities are as follows:
 
 1. **Building a data model & Managing Github** – Mariam Mohamed Mahmoud
-2. **Data Cleaning Using SQL** – Fatma Ashraf Hussein & Abeer Nasim Bakr
+2. **Data Cleaning Using SQL** – All Team
 3. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed Ali
 4. **Determining Data Analysis Questions** - Tarek Fekry Mahoub
 
