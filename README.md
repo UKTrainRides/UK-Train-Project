@@ -48,7 +48,8 @@ Roles and responsibilities will be assigned flexibly for each proect phase and u
 1. **Building a data model** – Mariam Mohamed Mahmoud
 2. **Data Cleaning Using SQL** – All Team
 3. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed Ali
-4. **Determining Data Analysis Questions** - Tarek Fekry Mahoub
+4. **Data Analysis & Visualization Using Python** – Malak Mohamed Ali 
+5. **Determining Data Analysis Questions** – All Team
 
 ---
 ## Project Files
