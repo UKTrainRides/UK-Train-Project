@@ -17,8 +17,6 @@ The project also includes interactive visualization tools to support exploration
 3. Malak Mohamed Ali
 4. Mariam Mohamed Mahmoud
 5. Sara Nasim Bakr
-6. Tarek Fekry Mahoub
-
 ---
 Under the supervision & guidance of our:
 
