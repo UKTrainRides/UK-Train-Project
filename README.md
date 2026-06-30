@@ -6,7 +6,7 @@ This project analyzes railway journey data to identify operational patterns, pas
 
 Using Python and modern data analysis tools, the project transforms raw railway operational data into meaningful insights and predictive capabilities. A machine learning model is trained using the Scikit-learn library to estimate the probability of train delays based on journey characteristics such as time of travel, ticket type, and travel patterns.
 
-The project also includes interactive visualization tools to support exploration and decision-making. A Tableau dashboard presents key operational insights, while a Streamlit web application enables users to explore the dataset and generate delay predictions.
+The project also includes interactive visualization tools to support exploration and decision-making. A Tableau dashboard presents key operational insights.
 
 ---
 
@@ -26,13 +26,11 @@ Under the supervision & guidance of our:
 
 ---
 
-## Objectives/Plans In'shaa'Allah
+## Objectives
 
 * Clean and prepare raw railway data for analysis - DONE
 * Perform exploratory data analysis to identify travel and delay patterns
 * Engineer useful features from temporal and journey data
-* Train and evaluate predictive models using Scikit-learn
-* Build an interactive Streamlit application for delay prediction
 * Develop a Tableau dashboard to communicate insights visually
 
 ---
