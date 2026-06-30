@@ -40,7 +40,7 @@ Under the supervision & guidance of our:
 ## Roles and Responsibilities
 
 Roles and responsibilities will be assigned flexibly for each proect phase and updated periodically as time progresses in'shaa'Allah.
-**Phase 1** of our project plan is currently ongoing & responsibilities are as follows:
+our project plan is done & responsibilities are as follows:
 
 0. **Setting Up & Managing Github** - Mariam Mohamed  & Malak Mohamed 
 1. **Building a data model** – Mariam Mohamed 
@@ -129,7 +129,6 @@ Machine learning models are trained using Scikit-learn to predict the likelihood
 Insights from the analysis are presented through:
 
 * an interactive **Tableau dashboard**
-* a **Streamlit web application** for data exploration and prediction
 
 ---
 
@@ -140,8 +139,6 @@ Insights from the analysis are presented through:
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn
-* Streamlit
 * Tableau
 * GitHub
 
@@ -159,22 +156,6 @@ Install required libraries:
 
 ```
 pip install -r requirements.txt
-```
-
----
-
-## Running the Streamlit Application
-
-Navigate to the application directory:
-
-```
-cd streamlit_app
-```
-
-Run the application:
-
-```
-streamlit run app.py
 ```
 
 ---
