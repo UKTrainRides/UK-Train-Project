@@ -39,9 +39,6 @@ Under the supervision & guidance of our:
 
 ## Roles and Responsibilities
 
-Roles and responsibilities will be assigned flexibly for each proect phase and updated periodically as time progresses in'shaa'Allah.
-our project plan is done & responsibilities are as follows:
-
 0. **Setting Up & Managing Github** - Mariam Mohamed  & Malak Mohamed 
 1. **Building a data model** – Mariam Mohamed 
 2. **Data Cleaning Using SQL** – All Team
