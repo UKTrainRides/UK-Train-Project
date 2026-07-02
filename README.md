@@ -38,12 +38,11 @@ Under the supervision & guidance of our:
 ## Roles and Responsibilities
 
 0. **Setting Up & Managing Github** - Mariam Mohamed  & Malak Mohamed 
-1. **Building a data model** – Mariam Mohamed 
-2. **Data Cleaning Using SQL** – All Team
-3. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed 
-4. **Data Analysis & Visualization Using Python** – Malak Mohamed / Mariam Mohamed
-5. **Determining Data Analysis Questions** – All Team
-6. **Tableau Dashboards** - All Team
+1. **Data Cleaning Using SQL** – All Team
+2. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed 
+3. **Data Analysis & Visualization Using Python** – Malak Mohamed / Mariam Mohamed
+4. **Determining Data Analysis Questions** – All Team
+5. **Tableau Dashboards** - All Team
 
 ---
 ## Project Files
@@ -61,43 +60,7 @@ The data is processed through multiple stages:
 
 1. **Raw data** – original dataset
 2. **Cleaned data** – missing values and inconsistencies handled
-3. **Processed data** – features engineered for machine learning
-
----
-
-## Project Structure
-
-```
-UK-Train-Project/
-
-│── README.md
-│── requirements.txt
-│
-├── data/
-│   ├── raw/
-│   │   └── railway.csv
-│   ├── cleaned/
-│   │   └── cleaned_dataset.csv
-│   └── processed/
-│       └── modeling_dataset.csv
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   ├── 03_Modeling.ipynb
-│
-├── models/
-│   └── best_model.pkl
-│
-├── streamlit_app/
-│   └── app.py
-│
-├── tableau/
-│   └── dashboard.twb
-│
-└── report/
-    └── final_report.pdf
-```
+3. **Visuallized data** – analysed and presented to reveal insights
 
 ---
 
@@ -111,15 +74,7 @@ Raw data is examined, cleaned, and transformed into a structured format suitable
 
 Statistical summaries and visualizations are used to understand patterns in travel demand, ticket usage, and delay occurrences.
 
-### 3. Feature Engineering
-
-New variables are created from time and journey information to improve the predictive power of machine learning models.
-
-### 4. Predictive Modeling
-
-Machine learning models are trained using Scikit-learn to predict the likelihood of train delays. Model performance is evaluated using standard classification metrics.
-
-### 5. Visualization and Application
+### 3. Visualization and Application
 
 Insights from the analysis are presented through:
 
@@ -159,7 +114,6 @@ pip install -r requirements.txt
 
 * Identification of major factors contributing to train delays
 * Insights into passenger travel patterns and ticket usage
-* A trained predictive model for delay likelihood estimation
 * Interactive visualization tools for operational analysis
 
 ---
