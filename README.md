@@ -39,7 +39,7 @@ Under the supervision & guidance of our:
 
 0. **Setting Up & Managing Github** - Mariam Mohamed  & Malak Mohamed 
 1. **Data Cleaning Using SQL** – All Team
-2. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed 
+2. **Data Cleaning & Preprocessing Using Python** – Malak Mohamed / Mariam Mohamed
 3. **Data Analysis & Visualization Using Python** – Malak Mohamed / Mariam Mohamed
 4. **Determining Data Analysis Questions** – All Team
 5. **Tableau Dashboards** - All Team
